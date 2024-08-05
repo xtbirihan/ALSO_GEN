@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZZ1_INB_DECO_TEXT</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000005</OUTPUTLEN>
+    <LOWERCASE>X</LOWERCASE>
+    <ENTITYTAB>ZZ1_49F2A0B1A237</ENTITYTAB>
+    <DDTEXT>ZZ1_INB_DECO_TEXT</DDTEXT>
+    <DOMMASTER>E</DOMMASTER>
+   </DD01V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

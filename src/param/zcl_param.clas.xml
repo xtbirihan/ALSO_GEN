@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_PARAM</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Parameter Framework Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <SCONAME>ET_LIST</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter-Framework List Table Type</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <SCONAME>ET_RANGE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SELECT-OPTIONS Table</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <SCONAME>EV_CONSTANT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter-Framework Low</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <SCONAME>IV_LGNUM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Warehouse Number/Warehouse Complex</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <SCONAME>IV_PARAMETER</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <SCONAME>IV_PROCESS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

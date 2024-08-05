@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_PARAM_CHECK</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Parameter Framework: Check Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <MSG_ID>ZMC_PARAM_FRAMEWORK</MSG_ID>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CLASS_CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CLASS_CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_PARAM_NO_TRAN_CREATE_NEW</CMPNAME>
+     <SCONAME>IS_PARMD</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Generated Table for View</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_PARAM_TRAN_CREATE_NEW</CMPNAME>
+     <SCONAME>IS_PARC</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Generated Table for View</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_SUB_PARAM_RECORD_EXISTS</CMPNAME>
+     <SCONAME>IS_PARDF</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter: Definition</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

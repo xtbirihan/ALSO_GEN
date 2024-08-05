@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_SWITCH_CONST</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Switch Framework: Constants Interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ACT_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ACT_TYPE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ACT_TYPE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ACT_TYPE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ACT_TYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCCAT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCCAT</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCCAT</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCCAT</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCCAT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCTYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCTYPE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCTYPE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCTYPE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DOCTYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYPE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYPE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYPE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LIMITID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Dynamic Fieldname: WOCR Limit ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LIMITID</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Dynamic Fieldname: WOCR Limit ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LIMITID</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Dynamic Fieldname: WOCR Limit ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LIMITID</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Dynamic Fieldname: WOCR Limit ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LIMITID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Dynamic Fieldname: WOCR Limit ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_USER_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_USER_NAME</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_USER_NAME</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_USER_NAME</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_USER_NAME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Switch Framework: Dynamic Fieldname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Dev ID. Slot Weekly Volume GAP 43</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Dev ID. Slot Weekly Volume GAP 43</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Dev ID. Slot Weekly Volume GAP 43</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Dev ID. Slot Weekly Volume GAP 43</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Dev ID. Slot Weekly Volume GAP 43</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Dev ID Bin Capacity GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_002</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Dev ID Bin Capacity GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_002</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Dev ID Bin Capacity GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_002</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Dev ID Bin Capacity GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_002</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Dev ID Bin Capacity GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_003</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Capacity Check BAdI GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_003</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Capacity Check BAdI GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_003</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Capacity Check BAdI GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_003</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Capacity Check BAdI GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_003</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Capacity Check BAdI GAP 042</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_004</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Determine Repl. Qty GAP 069</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_004</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Determine Repl. Qty GAP 069</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_004</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Determine Repl. Qty GAP 069</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_004</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Determine Repl. Qty GAP 069</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_004</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Determine Repl. Qty GAP 069</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_005</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Auto Conf. WTs from Conveyer GAP 86</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_005</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Auto Conf. WTs from Conveyer GAP 86</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_005</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Auto Conf. WTs from Conveyer GAP 86</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_005</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Auto Conf. WTs from Conveyer GAP 86</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_005</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Auto Conf. WTs from Conveyer GAP 86</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_002</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_002</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_002</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_002</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_003</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_003</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_003</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_003</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_003</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Value help for change Bin GAP70</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Value help for change Bin GAP70</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Value help for change Bin GAP70</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Value help for change Bin GAP70</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Value help for change Bin GAP70</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Replenishement process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_002</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Replenishement process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_002</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Replenishement process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_002</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Replenishement process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_002</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Replenishement process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_003</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_003</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_003</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_003</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_003</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_004</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Replenishment UI with Tote Placement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_004</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Replenishment UI with Tote Placement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_004</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Replenishment UI with Tote Placement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_004</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Replenishment UI with Tote Placement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINT_004</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Replenishment UI with Tote Placement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZMON_001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Monitor Wave Release</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Pick From High Rack Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Pick From High Rack Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Pick From High Rack Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Pick From High Rack Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Pick From High Rack Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Dev ID. WOCR Additional Grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_002</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Dev ID. WOCR Additional Grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_002</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Dev ID. WOCR Additional Grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_002</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Dev ID. WOCR Additional Grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_002</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Dev ID. WOCR Additional Grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_003</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Pick From Bulk Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_003</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Pick From Bulk Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_003</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Pick From Bulk Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_003</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Pick From Bulk Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_003</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Pick From Bulk Area GAP 36</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_004</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Custom Wave Release Method GAP 62</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_004</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Custom Wave Release Method GAP 62</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_004</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Custom Wave Release Method GAP 62</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_004</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Custom Wave Release Method GAP 62</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_004</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Custom Wave Release Method GAP 62</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_005</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>WOCR: Determine PMAT for shipping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_005</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>WOCR: Determine PMAT for shipping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_005</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>WOCR: Determine PMAT for shipping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_005</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>WOCR: Determine PMAT for shipping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_005</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>WOCR: Determine PMAT for shipping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_007</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Picking Strategies: Stock removal rule</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_007</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Picking Strategies: Stock removal rule</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_007</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Picking Strategies: Stock removal rule</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_007</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Picking Strategies: Stock removal rule</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_007</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Picking Strategies: Stock removal rule</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_009</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Picking Strategies: Big order picking</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_009</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Picking Strategies: Big order picking</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_009</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Picking Strategies: Big order picking</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_009</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Picking Strategies: Big order picking</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_009</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Picking Strategies: Big order picking</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_017</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_017</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_017</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_017</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_017</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_018</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZVCE_001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Development ID</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

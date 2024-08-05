@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_DYNAMIC_ALGORITHM</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Dynamic capacity calculation</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CALC_BINTYP_CAPACITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Calculate bin type capacity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CALC_BINTYP_CAPACITY</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Calculate bin type capacity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CALC_BINTYP_CAPACITY</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Calculate bin type capacity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CALC_BINTYP_CAPACITY</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Calculate bin type capacity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CALC_BINTYP_CAPACITY</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Calculate bin type capacity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CALC_WITHOUT_LGTYP_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Calculate bin type capacity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Storage bin type dimentionas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Get Storage bin type dimentionas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Get Storage bin type dimentionas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Get Storage bin type dimentionas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Get Storage bin type dimentionas</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CALC_BINTYP_CAPACITY</CMPNAME>
+     <SCONAME>IS_MAT_LGTYP</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Material: Storage-Type-Specific Data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CALC_WITHOUT_LGTYP_DATA</CMPNAME>
+     <SCONAME>IS_MAT_LGTYP</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Material: Storage-Type-Specific Data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IT_T303S</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303S</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IT_T303S</SCONAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303S</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IT_T303S</SCONAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303S</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IT_T303S</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303S</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IT_T303S</SCONAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303S</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IV_LGNUM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Warehouse Number/Warehouse Complex</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IV_LGNUM</SCONAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Warehouse Number/Warehouse Complex</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IV_LGNUM</SCONAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Warehouse Number/Warehouse Complex</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IV_LGNUM</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Warehouse Number/Warehouse Complex</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>IV_LGNUM</SCONAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Warehouse Number/Warehouse Complex</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>RT_LPTYP_DIM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>RT_LPTYP_DIM</SCONAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>RT_LPTYP_DIM</SCONAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>RT_LPTYP_DIM</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LPTYP_DIM</CMPNAME>
+     <SCONAME>RT_LPTYP_DIM</SCONAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Table Type for /SCWM/T303</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

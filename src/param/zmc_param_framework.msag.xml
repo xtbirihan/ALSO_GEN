@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Parameter Framework: Message Class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Process &amp;1 and Parameter &amp;2 are not defined in the tab.&apos;ZTPARAM_DEF&apos;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Full key is not specified</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Process ID &amp;1 is not defined in the interface ZIF_PARAM_CONST</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Parameter ID &amp;1 is not defined in the interface ZIF_PARAM_CONST</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Description of process &amp;1 / parameter &amp;2 is missing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Master data parameter record exists with key &amp;1 / &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Customizing data parameter exists with key &amp;1 / &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_PARAM_FRAMEWORK</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Delivery Class of the Definition doesn&apos;t allow Master data records.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

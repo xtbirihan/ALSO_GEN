@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Full key should be specified.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Dev ID &amp;1 should be specified in the interface ZIF_SWITCH_CONST.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Description should be filled in.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Field name &amp;1 should be specified in the interface ZIF_SWITCH_CONST.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Description for &amp;1 should be filled in</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_SWITCH_FRAMEWORK</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Field name &amp;1 should be specified in the interface ZIF_SWITCH_CONST.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

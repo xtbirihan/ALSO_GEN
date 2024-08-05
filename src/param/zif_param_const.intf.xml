@@ -1,0 +1,1127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_PARAM_CONST</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Interface for Constants</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>C_/SCWM/DE_HUTYP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Proposed HU Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_/SCWM/DE_HUTYP</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Proposed HU Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_/SCWM/DE_HUTYP</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Proposed HU Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_/SCWM/DE_HUTYP</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Proposed HU Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_/SCWM/DE_HUTYP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Proposed HU Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_AA_TWOMH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_AA_TWOMH</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_AA_TWOMH</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_AA_TWOMH</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_AA_TWOMH</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ADD_SERVICE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_AUGRU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_BACKUP_SRV_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CONDTAB_IBD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CONDTAB_ZSLO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CONDTYPE_ZSLO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CONS_PROCTY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CR_WT_WAITING_TIME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CR_WT_WAITING_TIME</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CR_WT_WAITING_TIME</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CR_WT_WAITING_TIME</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CR_WT_WAITING_TIME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_DROPOFF_BIN_EMPTY_CART</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HTS_CODE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HUTYPGRP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_IS_NO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_IS_NO</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_IS_NO</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_IS_NO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_IS_NO</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_REF</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_REF</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_REF</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_REF</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HU_IDENT_REF</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_CONV</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_CONV</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_CONV</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_CONV</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_CONV</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_PARK_PICKCART</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_PARK_PICKCART</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_PARK_PICKCART</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_PARK_PICKCART</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_PARK_PICKCART</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_TOTE_REL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Storage Type Tote Relevant</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_TOTE_REL</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Storage Type Tote Relevant</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_TOTE_REL</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Storage Type Tote Relevant</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_TOTE_REL</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Storage Type Tote Relevant</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_LGTYP_TOTE_REL</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Storage Type Tote Relevant</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MARM_MEINH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MARM_MEINH</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MARM_MEINH</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MARM_MEINH</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MARM_MEINH</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MFS_ACT_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MFS_PACKING3_LGTYP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_DYN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_DYN</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_DYN</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_DYN</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_DYN</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_STAT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_STAT</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_STAT</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_STAT</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PACK_STAT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARAM_CONS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARAM_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARAM_ID</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARAM_ID</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARAM_ID</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARAM_ID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PARTY_ROLE_CUST_PRINT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_1</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_1</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_1</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_1</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_2</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_2</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_2</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_2</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_DEF_STSS_2</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_1</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_1</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_1</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_1</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_2</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_2</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_2</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_2</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PICK_STR_STSS_2</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_CART_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_CART_ID</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_CART_ID</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_CART_ID</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_CART_ID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_SPED_PALLET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Pack profile for SPED pack materials</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_SPED_PALLET</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Pack profile for SPED pack materials</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_SPED_PALLET</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Pack profile for SPED pack materials</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_SPED_PALLET</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Pack profile for SPED pack materials</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PMAT_SPED_PALLET</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Pack profile for SPED pack materials</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_POSC_SVK_HUTGR_NONC</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_POSC_SVK_HUTGR_NONC</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_POSC_SVK_HUTGR_NONC</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_POSC_SVK_HUTGR_NONC</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_POSC_SVK_HUTGR_NONC</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PRINT_HU_LAST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PRINT_HU_LAST</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PRINT_HU_LAST</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PRINT_HU_LAST</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PRINT_HU_LAST</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROCESS_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROCESS_ID</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROCESS_ID</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROCESS_ID</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROCESS_ID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PUT_CTR_IND</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PUT_CTR_IND</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PUT_CTR_IND</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PUT_CTR_IND</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PUT_CTR_IND</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ST_TYPE_EXCEPT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ST_TYPE_EXCEPT</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ST_TYPE_EXCEPT</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ST_TYPE_EXCEPT</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ST_TYPE_EXCEPT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_TEXT_TYPE_PACK_INST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_VIND</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_VINV</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_WC_MASTERCARTON_PACK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Master Carton packing Workcenter</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_WH_PROCESS_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_WH_PROCESS_TYPE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_WH_PROCESS_TYPE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_WH_PROCESS_TYPE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_WH_PROCESS_TYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCONS_0001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_0004</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_0004</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_0004</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_0004</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_0004</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZCROSS_0006</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_PUT_RULE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_PUT_RULE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_PUT_RULE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_PUT_RULE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_PUT_RULE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_SPLITPUT_LGTYP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_SPLITPUT_LGTYP</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_SPLITPUT_LGTYP</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_SPLITPUT_LGTYP</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZDE_SPLITPUT_LGTYP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Parameter ID for process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0006</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0006</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0006</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0006</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0006</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZGEN_0007</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Decon UI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0002</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Decon UI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0002</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Decon UI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0002</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Decon UI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZINB_0002</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Decon UI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZMFS_0001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0003</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0003</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0003</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0003</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0003</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0004</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0004</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0004</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0004</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0004</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0006</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0006</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0006</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0006</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0006</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0007</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0007</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0007</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0007</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0007</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZOUT_0010</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0001</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0001</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0001</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0001</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0002</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0002</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0002</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0002</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0004</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0004</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0004</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0004</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0004</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZRFUI_0006</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZVCE_0001</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZVCE_0002</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ZVCE_0003</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process ID (Specification, Program, BAdI etc.)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
